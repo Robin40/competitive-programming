@@ -1,0 +1,6 @@
+cmake-build-debug/
+a.out
+
+# JetBrains affairs
+**/.idea/workspace.xml
+**/.idea/tasks.xml
